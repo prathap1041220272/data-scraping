@@ -1,0 +1,20 @@
+{
+  "name": "scarping",
+  "version": "1.0.0",
+  "description": "scraping the imdb website with the cheerio module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/prathap1041220272"
+  },
+  "author": "siva",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.3",
+    "request": "^2.87.0"
+  }
+}
